@@ -1,3 +1,9 @@
 pandas
 sklearn
 matplotlib
+webdriver-manager
+selenium
+requests
+bs4
+scikit-learn
+nltk
